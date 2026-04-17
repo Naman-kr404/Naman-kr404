@@ -86,4 +86,3 @@
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
